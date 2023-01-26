@@ -1,6 +1,6 @@
 primero deberas clonar el siguiente repositorio, que contiene el proyecto de la API (Back-End)
 
-    git clone https://github.com/ycstuardo/soft-jobs
+    git clone https://github.com/ycstuardo/soft-jobs.git
 
 Luego abrir instalar depencias
 
@@ -15,7 +15,7 @@ luego levantar el servidor
 
 luego deberas clonar el siguiente repositorio, que contiene el proyecto de la UI (Front-End)
 
-    git clone https://github.com/ycstuardo/softjobs-ui
+    git clone https://github.com/ycstuardo/softjobs-ui.git
 
 luego instalar depencias
 

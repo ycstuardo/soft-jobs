@@ -24,7 +24,7 @@ const login = (req, res) => {
       var token = jwt.sign({ user: email }, "123");
 
       res.status(200);
-      res.json({ token });
+      res.json( token );
 
       return;
     });
